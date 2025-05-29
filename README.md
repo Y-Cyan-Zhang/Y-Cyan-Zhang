@@ -1,4 +1,4 @@
-## Everything is W.I.P
+## Everything is work in progress. Great changes coming soon...
 Resume attached in this Github repo
 
 <!--
